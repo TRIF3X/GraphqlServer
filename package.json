@@ -1,0 +1,26 @@
+{
+  "name": "GraphQLserver",
+  "version": "1.0.0",
+  "description": "Simple server using graphql and express with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRIF3X/GraphqlServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TRIF3X/GraphqlServer/issues"
+  },
+  "homepage": "https://github.com/TRIF3X/GraphqlServer#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "nodemon": "^1.18.7"
+  }
+}
