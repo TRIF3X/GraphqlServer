@@ -19,7 +19,7 @@
   "homepage": "https://github.com/TRIF3X/GraphqlServer#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "express-graphql": "^0.7.1",
+    "express-graphql": "^0.8.0",
     "graphql": "^14.0.2",
     "nodemon": "^1.18.7"
   }
